@@ -44,4 +44,4 @@ The goal of this project is to help business stakeholders understand key KPIs, i
 • Delivery performance showed 21,607 orders delivered within 1–2 days, indicating strong operational efficiency.<br>
 • Customer base showed a balanced gender split, with 50.73% female and 49.27% male customers.<br>
 
-### 🔗Live Interactive Report : https://shorturl.at/iLwbN
+### 🔗Live Interactive Report : https://tinyurl.com/4kvvujk4
